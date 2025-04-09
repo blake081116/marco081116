@@ -1,16 +1,14 @@
 # 🐍 Nguyễn Quang Gia Bảo (Marco Nguyen)
 
 ## Hi !!! 👋
-I am currently a third-year student at VNUHCM - University of Science. Here is some info about me!!!
+I am currently a PhD student at the University of Montana. Here is some info about me!!!
 
 💻 Education:
-- Major: Information Technology
-- Specilize: Data Science
+- Major: Computer Science
 
 🕕 Interests:
-- Machine Learning
-- Data Science
-- Python developer
+- Neuron Science
+- Machine Learning/Deep Learning
 
 ## Reach me by:
 <p align="left">
