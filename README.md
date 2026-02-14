@@ -1,4 +1,4 @@
-# 🐍 Nguyễn Quang Gia Bảo (Marco Nguyen)
+# 🐍 Nguyễn Quang Gia Bảo (Blake Nguyen)
 
 ## Hi !!! 👋
 I am currently a PhD student at the University of Montana. Here is some info about me!!!
